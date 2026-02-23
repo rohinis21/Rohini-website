@@ -1,6 +1,5 @@
 # Rohini Sondole — Portfolio Website
 
-A modern, responsive portfolio website built with **Next.js 14**, **Tailwind CSS v4**, **Framer Motion**, and **shadcn/ui** — the same tech stack as [Varun Sonawane's portfolio](https://varun-sonawane-portfolio.vercel.app/), customized with your data.
 
 ## 🚀 Quick Start
 
